@@ -1,14 +1,12 @@
 import React from 'react'
 import './style.css'
 
-
-const Home = props => {
+const Blog = (props) => {
   return (
     <div>
-      Home
+      Blog
     </div>
   )
 }
 
-
-export default Home
+export default Blog
