@@ -2,12 +2,28 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
-body {
-  background-image: url(images/homepage.jpg);
+/* body {
+  background-image: url(images/sideshot-large.jpg);
   background-repeat:  no-repeat;
   background-size: cover;
   background-position: center;
+} */
+
+body {
+background-color: #d8d8d8;
 }
+
+.App {
+  width: 90%; 
+  margin: 0 auto;
+  border: 2px solid yellow;
+  
+}
+
+/* img {
+  max-width: 90%;
+  height: auto;
+} */

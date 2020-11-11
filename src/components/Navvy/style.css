@@ -1,0 +1,29 @@
+.navvybar {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navvybar ul {
+  margin: 0;
+  padding: 0;
+}
+
+.navvybar ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.navvybar ul li a {
+  text-decoration: none;
+  display: block;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 0 10px;
+}
+
+.search {
+  display: flex;
+  margin: 0 10px;
+}

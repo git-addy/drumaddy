@@ -1,0 +1,7 @@
+.card {
+  background-color: #ffffff;
+
+  /* padding should not be added here since this is a resuable component. We can always amend the class of the element this component is being used in */
+  /* padding: 50px 0; */
+  
+}
