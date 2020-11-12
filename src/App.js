@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <Header />
+        {/* <Header /> */}
         <Hero />
         <Route path="/" exact component={Home} />
         <Route path="/contact" component={Contact} />
