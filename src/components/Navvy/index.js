@@ -1,4 +1,4 @@
-import React, { useState} from 'react'
+import React, { useState } from 'react'
 import './style.css'
 import search1 from '../../search.svg'
 import { NavLink } from 'react-router-dom'
