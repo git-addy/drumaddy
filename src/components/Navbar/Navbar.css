@@ -14,6 +14,7 @@
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
+    font-style: italic;
 }
 
 .fa-drum {

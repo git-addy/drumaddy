@@ -25,6 +25,7 @@
   font-style: italic;
   font-weight: 300 lighter;
   padding: 10px 0;
+  color: #6c6c6c;
 }
 
 /* in order for the below css to work first the parent container's width needs to be defined as 100% */

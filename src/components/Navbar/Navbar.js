@@ -22,7 +22,7 @@ class Navbar extends Component {
         return (
             <div>
                 <nav className="NavbarItems">
-                    <h1 className="navbar-logo">Dr-Addy <i class="fas fa-drum"></i></h1>
+                    <h1 className="navbar-logo">drumaddy<i class="fas fa-drum"></i></h1>
                     <div className="menu-icon" onClick={this.handleClick}>
                         <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}>
                         </i>

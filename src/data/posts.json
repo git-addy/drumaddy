@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id":1,
+      "category": "intro",
+      "title": "Drums - the beginning of a never-ending loop",
+      "date": "Nov 14, 2020",
+      "author": "addy",
+      "image": "sideshot.jpg",
+      "text":  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    },
+
+    {
+      "id":2,
+      "category": "psychological",
+      "title": "Impulsive Vs Mindful practise",
+      "date": "Nov 4, 2020",
+      "author": "addy",
+      "image": "abc.jpg",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    },
+
+    {
+      "id":3,
+      "category": "philosophy",
+      "title": "Drums and self development",
+      "date": "Nov 11, 2020",
+      "author": "addy",
+      "image": "music.jpg",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    },
+
+    {
+      "id":4,
+      "category": "practise psychological",
+      "title": "The cycle of a productive drummer",
+      "date": "Nov 8, 2020",
+      "author": "addy",
+      "image": "ppl.jpg",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    },
+
+    {
+      "id":5,
+      "category": "Fitness",
+      "title": "fitness and drumming",
+      "date": "Nov 1, 2020",
+      "author": "addy",
+      "image": "powerdrum.jpg",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    },
+
+    {
+      "id":6,
+      "category": "gear",
+      "title": "my present drumset",
+      "date": "Nov 16, 2020",
+      "author": "addy",
+      "image": "photo.jpg",
+      "text":  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates amet deserunt, laborum eos fuga, exercitationem maiores voluptas, tenetur dolorum voluptate consequatur a culpa sequi voluptatem quo quidem doloribus. Facilis, eligendi."
+    }
+  ]
+}
