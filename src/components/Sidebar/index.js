@@ -15,7 +15,7 @@ const Sidebar = (props) => {
   useEffect(() => {
     const posts = blogPost.data;
     setPosts(posts);
-});
+}, [posts]);
 
   return (
     <div className="sidebarContainer">

@@ -4,7 +4,6 @@ import './Navbar.css'
 import Button from '../Button'
 
 
-
 class Navbar extends Component {
   // shortcut rconst
     constructor (props){
@@ -13,7 +12,7 @@ class Navbar extends Component {
         clicked: false 
       }
 }
-   
+ 
     handleClick = () => {
         this.setState({ clicked: !this.state.clicked})
     }
@@ -21,25 +20,25 @@ class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav className="NavbarItems">
-                    <h1 className="navbar-logo">drumaddy<i class="fas fa-drum"></i></h1>
-                    <div className="menu-icon" onClick={this.handleClick}>
-                        <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}>
-                        </i>
-                    </div>
-                    <ul className={this.state.clicked ? "nav-menu active" : "nav-menu"}>
-                        {MenuItems.map((item, index) => {
-                            return (
-                                <li key={index}>
-                                    <a className={item.cName} href={item.url}>
-                                      {item.title}
-                                    </a>
-                               </li>
-                            )
-                        })} 
-                    </ul>
-                    <Button>Signup</Button>
-                </nav>
+              <nav className="NavbarItems">
+                  <h1 className="navbar-logo">drumaddy<i class="fas fa-drum"></i></h1>
+                  <div className="menu-icon" onClick={this.handleClick}>
+                      <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}>
+                      </i>
+                  </div>
+                  <ul className={this.state.clicked ? "nav-menu active" : "nav-menu"}>
+                      {MenuItems.map((item, index) => {
+                          return (
+                              <li key={index}>
+                                  <a className={item.cName} href={item.url}>
+                                    {item.title}
+                                  </a>
+                              </li>
+                          )
+                      })} 
+                  </ul>
+                  <Button>Signup</Button>
+              </nav>
             </div>
         )
     }
